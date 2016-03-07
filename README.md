@@ -1,4 +1,4 @@
-#AngularJS Workshop
+#AngularJS Workshop by Quang Ly
 
 Google Slides: https://goo.gl/Y9D5n1
 
