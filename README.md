@@ -7,14 +7,13 @@ Topic will cover:
 - Some introductory basic code
   - Scope and Interpolation
   - Routes, Templates, Controllers
-- Sample Weather Forecast App
+  - Weather Forecast App
 - A Full Stack Expense App using 
   - AngularJS
   - Python/Flask
   - PostgresSQL 
   - oAuth (Facebook / Twitter) authentication
-  - deployed to Heroku
-
+  - Heroku (PaaS - Platform as a Service)
 
 #Requirements / Recommendations
 - A lightweight httpserver (https://nodejs.org/en/) then "npm install http-server". Launch http-server in terminal / shell of under root directory of code.
