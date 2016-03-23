@@ -2,7 +2,7 @@
 
 Google Slides: https://goo.gl/Y9D5n1
 
-Topic will cover:
+Topics will cover:
 - Concepts: Single Page Apps (SPA), 2 Way Binding, Routes-Templates-Controllers
 - Some introductory basic code
   - Scope and Interpolation
